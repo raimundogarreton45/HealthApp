@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "u_google_1765075161085",
+      "email": "google.user@example.com",
+      "full_name": "Google User",
+      "photo_url": "https://lh3.googleusercontent.com/a/default-user",
+      "role": "client",
+      "provider": "google",
+      "created_at": "2025-12-07T02:39:21.085Z"
+    },
+    {
+      "id": "u_1765075184049",
+      "email": "demo@example.com",
+      "password": "demo123",
+      "full_name": "Demo User",
+      "role": "client",
+      "created_at": "2025-12-07T02:39:44.049Z"
+    }
+  ],
+  "experts": [],
+  "consultations": [],
+  "playlists": [],
+  "exercises": [],
+  "conversations": [
+    {
+      "id": "c_1765244761726",
+      "agent_name": "mental_health_companion",
+      "metadata": {
+        "name": "Chat 08-12-2025, 10:46:01 PM"
+      },
+      "messages": [],
+      "created_date": "2025-12-09T01:46:01.726Z"
+    }
+  ]
+}
