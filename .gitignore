@@ -1,3 +1,15 @@
+# dependencies
 node_modules/
+
+# env
 .env
+.env.*
+
+# expo
 .expo/
+.expo-shared/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
